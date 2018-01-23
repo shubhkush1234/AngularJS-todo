@@ -1,3 +1,4 @@
+a
 var module = angular.module('app', []);
 
 module.service('ContactService', function () {
